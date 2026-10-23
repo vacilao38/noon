@@ -1,0 +1,95 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Clustter: source continuity only; local data and outputs stay on this device.
+.local/
+.openai/
+.agents/
+.codex/
+.venv/
+.build-venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.dart_tool/
+.idea/
+node_modules/
+build/
+dist/
+dist-system/
+spec-system/
+teste_executavel/
+.tools/
+.packages/
+**/bin/
+**/obj/
+outputs/
+artifacts/
+qa/
+dados/
+vault/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+*.exe
+*.apk
+*.aab
+*.zip
+*.pem
+*.key
+*.pfx
+*.p12
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example
+!.env.sample
+**/local.properties
+**/key.properties
+**/credentials.json
